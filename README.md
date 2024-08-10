@@ -1,4 +1,4 @@
-# memory_management
+# memory_manager
 -> My code works correctly on windows machine but fails in Linux (Ubuntu in my case) due to the differance in both the OS's in interpreting the endline, string end operators.
 
 -> ERROR CASES
